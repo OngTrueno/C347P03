@@ -14,6 +14,10 @@
           <option name="url" value="https://github.com/TruenoOng/P05_ndpsongs" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/tokgrumps/FYPBeta" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\AndroidStudioProjects" />
