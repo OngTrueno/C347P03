@@ -22,8 +22,12 @@
           <option name="url" value="https://github.com/tokgrumps/CafeteriaFinal.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/tokgrumps/CafeteriaFinal" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="C:\AndroidStudioProjects" />
+    <option name="cloneParentDir" value="C:\Users\15056158" />
   </component>
 </application>
